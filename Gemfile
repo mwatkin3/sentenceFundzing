@@ -30,7 +30,7 @@ end
 
 # jQuery
 gem 'jquery-rails'
-gem 'jquery-ui-rails', github: 'joliss/jquery-ui-rails', branch: 'rails-4.0.2'
+gem 'jquery-ui-rails'
 
 # Kickstarter's awesome Amazon Flexible Payments gem
 gem 'amazon_flex_pay'
