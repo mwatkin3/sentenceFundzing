@@ -1,9 +1,11 @@
 .big_wrapper {
   border-bottom: 1px solid #d2d2d2;
   background: #fff;
+  min-width: 100%;
 }
 .big_wrapper .wrapper {
   padding: 35px 0;
+  width: 100%;
 }
 
 .point_copy {
@@ -27,7 +29,7 @@ h3 {
 #one {
   background: url(image_path("1-background.png")) no-repeat bottom left;
   height: 320px;
-  width: 936px;
+  width: 80%;
 }
 
 #two {

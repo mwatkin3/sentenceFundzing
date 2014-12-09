@@ -22,7 +22,7 @@ product_description: "SentenceZing"
 product_image_path: "sentencezing.png"
 
 # The message on the preorder page, Lockitron's is ""
-value_proposition: "Help fund a unique, interactive creative writing game."
+value_proposition: "A unique, interactive creative writing game."
 
 # YouTube or Vimeo Video URL (The embed URL, without the query string options)
 # Replace /embed/ in your video url path with /v/ for video playback to work.
